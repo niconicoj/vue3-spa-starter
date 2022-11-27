@@ -1,0 +1,24 @@
+{
+  "button": "click here",
+  "validation": {
+    "required": "this field is required"
+  },
+  "forms": {
+    "add_movie":{
+      "inputs": {
+        "title": "Movie title",
+        "release_year": "Release year"
+      },
+      "labels": {
+        "actors": "Actors"
+      },
+      "actions": {
+        "submit": "add movie",
+        "reset": "reset"
+      }
+    }
+  },
+  "movie_list": {
+    "title": "Movies"
+  }
+}

@@ -1,0 +1,13 @@
+main {
+  padding: 32px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
+
+.grid-2-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}

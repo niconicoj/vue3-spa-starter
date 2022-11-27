@@ -1,0 +1,24 @@
+{
+  "button": "cliquez ici",
+  "validation": {
+    "required": "ce champ est requis"
+  },
+  "forms": {
+    "add_movie":{
+      "inputs": {
+        "title": "Titre du film",
+        "release_year": "Année de sortie"
+      },
+      "labels": {
+        "actors": "Acteurs"
+      },
+      "actions": {
+        "submit": "ajouter",
+        "reset": "effacer"
+      }
+    }
+  },
+  "movie_list": {
+    "title": "Films"
+  }
+}
