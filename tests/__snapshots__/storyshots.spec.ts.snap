@@ -3,7 +3,7 @@
 exports[`Storyshots > Common/button > Default 1`] = `"<button class=\\"q-btn q-btn-item non-selectable no-outline q-btn--standard q-btn--rectangle q-btn--actionable q-focusable q-hoverable\\" tabindex=\\"0\\" type=\\"button\\"><span class=\\"q-focus-helper\\"></span><span class=\\"q-btn__content text-center col items-center q-anchor--skip justify-center row\\">cliquez ici</span></button>"`;
 
 exports[`Storyshots > Movie/card > Default 1`] = `
-"<div class=\\"q-card\\">
+"<div class=\\"q-card\\" name=\\"movieCard\\">
   <div class=\\"q-card__section q-card__section--vert\\">
     <div class=\\"text-h6\\">The Shawshank Redemption</div>
     <div class=\\"text-subtitle2\\">1994</div>
@@ -17,13 +17,13 @@ exports[`Storyshots > Movie/list > Default 1`] = `
     <div class=\\"text-h6\\" data-v-4a39eec0=\\"\\">Films</div>
   </div>
   <div class=\\"q-card__section q-card__section--vert grid-2-col\\" data-v-4a39eec0=\\"\\">
-    <div class=\\"q-card\\" data-v-4a39eec0=\\"\\">
+    <div class=\\"q-card\\" name=\\"movieCard\\" data-v-4a39eec0=\\"\\">
       <div class=\\"q-card__section q-card__section--vert\\">
         <div class=\\"text-h6\\">The Shawshank Redemption</div>
         <div class=\\"text-subtitle2\\">1994</div>
       </div>
     </div>
-    <div class=\\"q-card\\" data-v-4a39eec0=\\"\\">
+    <div class=\\"q-card\\" name=\\"movieCard\\" data-v-4a39eec0=\\"\\">
       <div class=\\"q-card__section q-card__section--vert\\">
         <div class=\\"text-h6\\">The Godfather</div>
         <div class=\\"text-subtitle2\\">1972</div>
